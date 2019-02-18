@@ -70,3 +70,10 @@ rails db:migrate
 rail server
 rails server
 exit
+$ pwd
+/home/you/odin_on_rails/my_first_rails_app
+git init
+git add
+git add .
+git commit -m "initial commit"
+exit

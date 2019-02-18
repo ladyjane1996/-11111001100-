@@ -1,9 +1,21 @@
-2019/02/17-17:04:33.753 1b3c Reusing MANIFEST /home/lady/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2019/02/17-17:04:33.753 1b3c Recovering log #3
-2019/02/17-17:04:33.753 1b3c Reusing old log /home/lady/.config/google-chrome/Default/Session Storage/000003.log 
-2019/02/17-17:06:33.754 1cff Level-0 table #5: started
-2019/02/17-17:06:33.810 1cff Level-0 table #5: 19280 bytes OK
-2019/02/17-17:06:33.844 1cff Delete type=0 #3
-2019/02/17-17:57:06.200 1cff Level-0 table #7: started
-2019/02/17-17:57:06.252 1cff Level-0 table #7: 19617 bytes OK
-2019/02/17-17:57:06.311 1cff Delete type=0 #4
+2019/02/18-09:41:02.723 82a Reusing MANIFEST /home/lady/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2019/02/18-09:41:02.723 82a Recovering log #13
+2019/02/18-09:41:02.747 82a Reusing old log /home/lady/.config/google-chrome/Default/Session Storage/000013.log 
+2019/02/18-09:45:38.756 c08 Level-0 table #17: started
+2019/02/18-09:45:38.800 c08 Level-0 table #17: 15953 bytes OK
+2019/02/18-09:45:38.834 c08 Delete type=0 #13
+2019/02/18-09:45:38.835 c08 Compacting 4@0 + 1@1 files
+2019/02/18-09:45:38.976 c08 Generated table #18@0: 315 keys, 18626 bytes
+2019/02/18-09:45:38.976 c08 Compacted 4@0 + 1@1 files => 18626 bytes
+2019/02/18-09:45:39.059 c08 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/02/18-09:45:39.060 c08 Delete type=2 #10
+2019/02/18-09:45:39.060 c08 Delete type=2 #12
+2019/02/18-09:45:39.060 c08 Delete type=2 #14
+2019/02/18-09:45:39.060 c08 Delete type=2 #7
+2019/02/18-09:45:39.061 c08 Delete type=2 #17
+2019/02/18-09:46:53.361 c08 Level-0 table #20: started
+2019/02/18-09:46:53.452 c08 Level-0 table #20: 14503 bytes OK
+2019/02/18-09:46:53.504 c08 Delete type=0 #16
+2019/02/18-09:47:10.636 c08 Level-0 table #22: started
+2019/02/18-09:47:10.675 c08 Level-0 table #22: 12347 bytes OK
+2019/02/18-09:47:10.701 c08 Delete type=0 #19

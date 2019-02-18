@@ -1,6 +1,27 @@
-2019/02/17-20:29:42.283 78a Reusing MANIFEST /home/lady/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2019/02/17-20:29:42.284 78a Recovering log #6
-2019/02/17-20:29:42.306 78a Reusing old log /home/lady/.config/google-chrome/Default/Session Storage/000006.log 
-2019/02/17-20:34:49.976 9ea Level-0 table #10: started
-2019/02/17-20:34:50.025 9ea Level-0 table #10: 25929 bytes OK
-2019/02/17-20:34:50.076 9ea Delete type=0 #6
+2019/02/18-09:53:05.967 a31 Reusing MANIFEST /home/lady/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2019/02/18-09:53:05.967 a31 Recovering log #21
+2019/02/18-09:53:05.983 a31 Reusing old log /home/lady/.config/google-chrome/Default/Session Storage/000021.log 
+2019/02/18-09:53:57.564 b6a Level-0 table #25: started
+2019/02/18-09:53:57.600 b6a Level-0 table #25: 16201 bytes OK
+2019/02/18-09:53:57.642 b6a Delete type=0 #21
+2019/02/18-09:56:01.650 b6a Level-0 table #27: started
+2019/02/18-09:56:01.705 b6a Level-0 table #27: 16898 bytes OK
+2019/02/18-09:56:01.781 b6a Delete type=0 #24
+2019/02/18-09:56:01.781 b6a Compacting 4@0 + 1@1 files
+2019/02/18-09:56:01.840 b6a Generated table #28@0: 425 keys, 70814 bytes
+2019/02/18-09:56:01.840 b6a Compacted 4@0 + 1@1 files => 70814 bytes
+2019/02/18-09:56:01.882 b6a compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/02/18-09:56:01.883 b6a Delete type=2 #18
+2019/02/18-09:56:01.883 b6a Delete type=2 #22
+2019/02/18-09:56:01.883 b6a Delete type=2 #25
+2019/02/18-09:56:01.884 b6a Delete type=2 #27
+2019/02/18-09:56:01.884 b6a Delete type=2 #20
+2019/02/18-10:00:32.700 b6a Level-0 table #30: started
+2019/02/18-10:00:32.745 b6a Level-0 table #30: 15359 bytes OK
+2019/02/18-10:00:32.770 b6a Delete type=0 #26
+2019/02/18-10:00:53.888 b6a Level-0 table #32: started
+2019/02/18-10:00:53.941 b6a Level-0 table #32: 11569 bytes OK
+2019/02/18-10:00:53.975 b6a Delete type=0 #29
+2019/02/18-10:02:50.865 b6a Level-0 table #34: started
+2019/02/18-10:02:50.909 b6a Level-0 table #34: 13364 bytes OK
+2019/02/18-10:02:50.934 b6a Delete type=0 #31
