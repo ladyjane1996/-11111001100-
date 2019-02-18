@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="gnome-control-center.desktop" open-window-count="0" score="16" last-seen="1550326624"/>
+    <application id="firefox.desktop" open-window-count="0" score="1451" last-seen="1550444608"/>
+    <application id="slack.desktop" open-window-count="0" score="0" last-seen="1550326406"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="32" last-seen="1550457515"/>
+    <application id="eog.desktop" open-window-count="0" score="0" last-seen="1550325271"/>
+    <application id="code.desktop" open-window-count="0" score="210" last-seen="1550458337"/>
+    <application id="google-chrome.desktop" open-window-count="1" score="304" last-seen="1550458773"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="661" last-seen="1550458770"/>
+    <application id="apport-gtk.desktop" open-window-count="0" score="0" last-seen="1550326411"/>
+    <application id="org.gnome.Software.desktop" open-window-count="0" score="23" last-seen="1550326669"/>
+  </context>
+</application-state>

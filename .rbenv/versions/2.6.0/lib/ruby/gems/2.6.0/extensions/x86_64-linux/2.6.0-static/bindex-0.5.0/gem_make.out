@@ -1,0 +1,15 @@
+current directory: /home/lady/.rbenv/versions/2.6.0/lib/ruby/gems/2.6.0/gems/bindex-0.5.0/ext/bindex
+/home/lady/.rbenv/versions/2.6.0/bin/ruby -I /home/lady/.rbenv/versions/2.6.0/lib/ruby/2.6.0 -r ./siteconf20190216-32462-1ynm7yl.rb extconf.rb
+creating Makefile
+
+current directory: /home/lady/.rbenv/versions/2.6.0/lib/ruby/gems/2.6.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /home/lady/.rbenv/versions/2.6.0/lib/ruby/gems/2.6.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.so
+
+current directory: /home/lady/.rbenv/versions/2.6.0/lib/ruby/gems/2.6.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20190216-32462-1d5snoy/bindex

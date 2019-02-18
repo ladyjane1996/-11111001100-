@@ -1,0 +1,78 @@
+{
+  "Version": "18.04",
+  "OEM": {
+    "Vendor": "HP",
+    "Product": "22-b009la"
+  },
+  "BIOS": {
+    "Vendor": "AMI",
+    "Version": "F.20"
+  },
+  "CPU": {
+    "OpMode": "32-bit, 64-bit",
+    "CPUs": "4",
+    "Threads": "2",
+    "Cores": "2",
+    "Sockets": "1",
+    "Vendor": "GenuineIntel",
+    "Family": "6",
+    "Model": "78",
+    "Stepping": "3",
+    "Name": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+    "Virtualization": "VT-x"
+  },
+  "Arch": "amd64",
+  "GPU": [
+    {
+      "Vendor": "8086",
+      "Model": "1916"
+    }
+  ],
+  "RAM": 3.9,
+  "Partitions": [
+    443.4,
+    0.3,
+    4,
+    0,
+    0
+  ],
+  "Screens": [
+    {
+      "Size": "476mmx268mm",
+      "Resolution": "1920x1080",
+      "Frequency": "60.00"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "x11"
+  },
+  "Language": "es_SV",
+  "Timezone": "America/El_Salvador",
+  "Install": {
+    "Media": "Ubuntu 18.04.1 LTS \"Bionic Beaver\" - Release amd64 (20180725)",
+    "Type": "GTK",
+    "OEM": false,
+    "PartitionMethod": "resize_use_free",
+    "DownloadUpdates": true,
+    "Language": "es",
+    "Minimal": false,
+    "RestrictedAddons": true,
+    "Stages": {
+      "0": "language",
+      "5": "console_setup",
+      "27": "wireless",
+      "600": "prepare",
+      "710": "partman",
+      "767": "partman",
+      "840": "start_install",
+      "944": "timezone",
+      "949": "usersetup",
+      "1003": "user_done",
+      "2666": "done"
+    }
+  }
+}

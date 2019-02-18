@@ -1,0 +1,39 @@
+{
+   "checksum": "da358cbbbae1d16c796820df3f2b0e97",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13194921466022261",
+            "id": "5",
+            "meta_info": {
+               "last_visited_desktop": "13194921466024586"
+            },
+            "name": "Start Part Time Monthly Job Online - Earn for your living, Open for all students and Job-less people - Monthly payouts 802194 $",
+            "type": "url",
+            "url": "http://mymonthlyjob.com/?userid=802194"
+         } ],
+         "date_added": "13194918273001919",
+         "date_modified": "13194921466022261",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13194918273001925",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Otros favoritos",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13194918273001928",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Favoritos del celular",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

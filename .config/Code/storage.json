@@ -1,0 +1,28 @@
+{
+    "telemetry.machineId": "f52288d6c6c6752901d7f2a23e9de2d1a949ea6b640c38eadbcdc588fc907e1e",
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "pickerWorkingDir": "/home/lady/odin_on_rails/my_first_rails_app",
+    "openedPathsList": {
+        "workspaces2": [],
+        "files2": [
+            "file:///home/lady/odin_on_rails/my_first_rails_app/Gemfile",
+            "file:///home/lady/my_first_rails_app/Gemfile",
+            "file:///home/lady/my_first_rails_app/Gemfile.lock",
+            "file:///home/lady/my_first_rails_app/app/assets/config/manifest.js"
+        ]
+    },
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "backupPath": "/home/lady/.config/Code/Backups/1550444406227",
+            "uiState": {
+                "mode": 1,
+                "x": 131,
+                "y": 141,
+                "width": 1024,
+                "height": 768
+            }
+        }
+    }
+}

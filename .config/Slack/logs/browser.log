@@ -1,0 +1,163 @@
+[02/16/19, 07:38:59:346] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[02/16/19, 07:38:59:348] info: ║      Slack 3.3.7, linux 4.15.0-45-generic on x64 at 02/16/19, 07:38:59:343      ║
+[02/16/19, 07:38:59:348] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[02/16/19, 07:38:59:726] info: Initializing local storage instance at path: /home/lady/.config/Slack/local-settings.json
+[02/16/19, 07:38:59:836] error: Locale: Tried to access systemLocale before application was ready
+[02/16/19, 07:39:00:188] info: TraceRecorder: setting up trace recorder, trace will be stored under /home/lady/.config/Slack/logs/recorded-trace
+[02/16/19, 07:39:00:194] info: Configuring uncaughtExceptionHandler
+[02/16/19, 07:39:00:194] info: Configuring unhandledRejectionHandler
+[02/16/19, 07:39:00:194] info: Registered with apiKey acaff8df67924f677747922423057034
+[02/16/19, 07:39:00:901] info: Store: persist/REHYDRATE
+[02/16/19, 07:39:00:952] info: Store: UPDATE_SETTINGS
+{
+  "isSignedIntoSlackOrg": false
+}
+[02/16/19, 07:39:00:955] info: UpdaterEpics: Updates disabled because
+{
+  "reasons": [
+    "using Linux"
+  ]
+}
+[02/16/19, 07:39:00:957] info: Generated uuid and stored
+{
+  "uuid": "9bb2cb9e-68ae-5494-ab69-b25f7541620e"
+}
+[02/16/19, 07:39:01:302] info: Tray Handler: Showing a tray balloon with title: Welcome to Slack!
+[02/16/19, 07:39:01:318] info: Store: INITIALIZE_SETTINGS
+{
+  "releaseChannel": "prod",
+  "platformVersion": {
+    "major": 4,
+    "minor": 15,
+    "build": 0
+  },
+  "isTitleBarHidden": false,
+  "isDevMode": false,
+  "appVersion": "3.3.7",
+  "versionName": "Alaska",
+  "devEnv": null,
+  "resourcePath": "/usr/lib/slack/resources/app.asar",
+  "webappSrcPath": null,
+  "webappParams": null,
+  "launchOnStartup": false,
+  "openDevToolsOnStart": false,
+  "logFile": null,
+  "pretendNotReallyWindows10": false,
+  "isAeroGlassEnabled": false,
+  "isGpuCompositionAvailable": true,
+  "linux": {
+    "os": "Ubuntu 18.04.1 LTS",
+    "release": "bionic",
+    "desktopEnvironment": "Unity"
+  }
+}
+[02/16/19, 07:39:01:323] info: AutoLoginEpic: Checking for autologin.
+[02/16/19, 07:39:01:327] info: Store: UPDATE_SETTINGS
+{
+  "hasRunApp": true
+}
+[02/16/19, 07:39:01:333] info: WebContentsMediator: Attaching to new webContents
+[02/16/19, 07:39:01:335] info: Store: ADD_WINDOW
+{
+  "id": 2,
+  "type": "main"
+}
+[02/16/19, 07:39:01:337] info: BrowserViewManager: Starting initialization
+[02/16/19, 07:39:01:339] info: PersistSettingsWindowBehavior: Loading windowMetrics
+{
+  "settings": null
+}
+[02/16/19, 07:39:01:339] info: PersistSettingsWindowBehavior: Resetting to default window position
+{
+  "settings": {
+    "position": [
+      438,
+      133
+    ],
+    "size": [
+      1112,
+      842
+    ]
+  }
+}
+[02/16/19, 07:39:01:339] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "position": [
+    438,
+    133
+  ],
+  "size": [
+    1112,
+    842
+  ]
+}
+[02/16/19, 07:39:01:363] info: Store: UPDATE_SETTINGS
+{
+  "PrefSSBFileDownloadPath": "/home/lady/Downloads"
+}
+[02/16/19, 07:39:01:367] warn: DownloadListener: Cannot access directory
+{
+  "downloadsDirectory": "/home/lady/Downloads"
+}
+[02/16/19, 07:39:01:367] info: DownloadListener: Downloads directory set to
+{
+  "downloadsDirectory": "/home/lady/Downloads"
+}
+[02/16/19, 07:39:01:368] info: Application: Setting main window ID
+{
+  "id": 2
+}
+[02/16/19, 07:39:01:371] info: App: Welcome to Slack 3.3.7 x64
+[02/16/19, 07:39:01:371] info: App load time: 2,327065738
+[02/16/19, 07:39:02:892] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[02/16/19, 07:39:02:897] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[02/16/19, 07:39:03:979] info: Store: SET_NETWORK_STATUS online
+[02/16/19, 07:39:03:982] info: Store: MAIN_WINDOW_SHOWN
+[02/16/19, 07:39:03:997] info: createSignInWindowEpic: No teams signed in, showing sign-in window
+[02/16/19, 07:39:04:002] info: WebContentsMediator: Attaching to new webContents
+[02/16/19, 07:39:04:003] info: Store: ADD_WINDOW
+{
+  "id": 3,
+  "type": "sign-in"
+}
+[02/16/19, 07:39:04:007] info: SignInEpic: Loading URL in new window
+[02/16/19, 08:13:25:843] info: Store: SIGN_IN_CANCELED
+[02/16/19, 08:13:25:868] info: SignInEpic: Sign-in window closed
+[02/16/19, 08:13:25:877] info: maybeQuitAppAction
+{
+  "canceledSignIn": true,
+  "hasNoTeams": true
+}
+[02/16/19, 08:13:25:878] info: SignInEpic: End of the road
+{
+  "action": "QUIT_APP"
+}
+[02/16/19, 08:13:25:878] info: Store: QUIT_APP
+[02/16/19, 08:13:25:928] info: quitApplicationEpic: found update metadata, send telemetry
+[02/16/19, 08:13:25:929] info: EpicHelpers: Flushing cookie store
+[02/16/19, 08:13:25:946] info: Store: REMOVE_WINDOW 3
+[02/16/19, 08:13:25:952] info: EpicHelpers: Flushing local-settings.json
+[02/16/19, 08:13:26:276] info: quitApplicationEpic: Closing child window
+{
+  "id": 3
+}
+[02/16/19, 08:13:26:276] info: Store: SIGN_IN_CANCELED
+[02/16/19, 08:13:26:280] info: Store: REMOVE_WINDOW 3
+[02/16/19, 08:13:26:284] info: quitApplicationEpic: Closing main window
+{
+  "id": 2
+}
+[02/16/19, 08:13:26:285] info: Allowing window close because user chose to quit
+[02/16/19, 08:13:26:287] info: Notification Window Manager: Trying to close notifications window
+[02/16/19, 08:13:26:287] warn: Notification Window Manager: Could not find notifications window in state
+[02/16/19, 08:13:26:289] info: App: Disposing application
+[02/16/19, 08:13:26:291] info: Store: REMOVE_WINDOW 2
+[02/16/19, 08:13:26:295] info: quitApplicationEpic: Disposing item
+{
+  "type": "ReduxPersistStorage"
+}
+[02/16/19, 08:13:26:307] info: Store: QUIT_APP
+[02/16/19, 08:13:26:309] info: Allowing window close because user chose to quit
+[02/16/19, 08:13:26:309] info: Store: SIGN_IN_CANCELED
+[02/16/19, 08:13:26:310] info: Store: REMOVE_WINDOW 3
+[02/16/19, 08:13:27:006] info: Store: QUIT_APP

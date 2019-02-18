@@ -1,0 +1,14 @@
+[02/16/19, 07:39:02:198] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[02/16/19, 07:39:02:200] info: ║      Slack 3.3.7, linux 4.15.0-45-generic on x64 at 02/16/19, 07:39:02:195      ║
+[02/16/19, 07:39:02:200] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[02/16/19, 07:39:02:323] info: Initializing local storage instance at path: /home/lady/.config/Slack/local-settings.json
+[02/16/19, 07:39:02:340] info: TranslationLookup: locale set to es-419 for renderer
+[02/16/19, 07:39:02:895] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[02/16/19, 07:39:02:898] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[02/16/19, 07:39:03:981] info: Store: SET_NETWORK_STATUS online
+[02/16/19, 07:39:03:986] info: Store: MAIN_WINDOW_SHOWN
+[02/16/19, 07:39:04:004] info: Store: ADD_WINDOW
+{
+  "id": 3,
+  "type": "sign-in"
+}
